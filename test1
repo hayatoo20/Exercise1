@@ -1,2 +1,5 @@
 int a, b,c;
 I am doing it
+
+
+C=a+b=C;
